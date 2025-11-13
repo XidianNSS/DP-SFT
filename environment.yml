@@ -1,4 +1,4 @@
-name: LoRA+SFT
+name: DP-SFT
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main
